@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\bin\Debug\netcoreapp2.0\MVCEmailValidationCode.deps.json
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\bin\Debug\netcoreapp2.0\MVCEmailValidationCode.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\bin\Debug\netcoreapp2.0\MVCEmailValidationCode.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\bin\Debug\netcoreapp2.0\MVCEmailValidationCode.dll
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\bin\Debug\netcoreapp2.0\MVCEmailValidationCode.pdb
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\MVCEmailValidationCode.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\MVCEmailValidationCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\MVCEmailValidationCode.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\MVCEmailValidationCode.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\MVCEmailValidationCode.dll
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\MVCEmailValidationCode.pdb
+C:\Users\Administrator\Documents\GitHub\MVCEmailValidationCode\MVCEmailValidationCode\MVCEmailValidationCode\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

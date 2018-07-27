@@ -12,8 +12,10 @@ namespace MVCEmailValidationCode.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
-        {
-        }
+        { }
+             public DbSet<ApplicationUser> ApplicationUser { get; set; }
+    
+    
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

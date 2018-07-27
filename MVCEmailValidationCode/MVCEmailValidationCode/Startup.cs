@@ -36,6 +36,18 @@ namespace MVCEmailValidationCode
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
 
+
+            //==================================
+            services.AddDistributedMemoryCache();
+
+            services.AddSession(options =>
+            {
+                // Set a short timeout for easy testing.
+                options.IdleTimeout = TimeSpan.FromSeconds(1800*1000);
+                options.Cookie.HttpOnly = true;
+            });
+            //===================================
+
             services.AddMvc();
         }
 
@@ -56,7 +68,7 @@ namespace MVCEmailValidationCode
             app.UseStaticFiles();
 
             app.UseAuthentication();
-
+            app.UseSession();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
